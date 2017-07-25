@@ -1,12 +1,10 @@
 {
-    "status": 200,
-    "data": {
+        "status": 200,
+            "data": {
         "guidepic": [
-            "https://guaju.github.io/flower2.jpg",
-            "http://upload.cankaoxiaoxi.com/2017/0724/1500856334352.jpg",
-            "http://upload.cankaoxiaoxi.com/2017/0724/1500856038428.jpg",
-            "https://guaju.github.io/lyh.jpg"
-         
+                "http://img3.imgtn.bdimg.com/it/u=3303627490,976704143&fm=26&gp=0.jpg",
+                "http://img4.imgtn.bdimg.com/it/u=3361381954,104895468&fm=26&gp=0.jpg",
+                "http://img4.imgtn.bdimg.com/it/u=150645347,480140999&fm=26&gp=0.jpg"
         ]
     }
-}
+ }
