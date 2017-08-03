@@ -1,7 +1,7 @@
 {
     "status": "200",
     "data": {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "info": "更新了首页界面,添加了布局文件,修复了xxxbug...",
         "appurl": "https://JinRuiZhangStr.github.io/app-release.apk"
     }
